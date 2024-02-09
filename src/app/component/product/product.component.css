@@ -1,0 +1,26 @@
+.card{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdhGwAiSqIoidgn5isB7NR2EKScsAhS4YSw&usqp=CAU");
+    border: 2px rgb(91, 91, 112) solid;
+}
+h1 {
+    font-size: 68px;
+  font-weight: bold;
+  color: #8aa6c9;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(to right, #6f9ecd, #18544e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h1:hover {
+  transform: scale(1.5);
+  transition: transform 0.3s ease;
+}
+p{
+  font-size: 20px;
+}
+
+
+
+
+
+
